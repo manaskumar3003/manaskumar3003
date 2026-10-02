@@ -1,35 +1,36 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/manaskumar3003/manaskumar3003/master/assets/hero.svg" alt="Manas Kumar — full-stack engineer"/>
+# Manas Kumar
 
-<a href="https://manaskumar.in"><img height="28" src="https://img.shields.io/badge/manaskumar.in-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=58a6ff&labelColor=0d1117"/></a>
-<a href="https://linkedin.com/in/manaskumar3003"><img height="28" src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117"/></a>
-<a href="https://x.com/ManasKumar3003"><img height="28" src="https://img.shields.io/badge/ManasKumar3003-0d1117?style=for-the-badge&logo=x&logoColor=e6edf3&labelColor=0d1117"/></a>
+**Full-stack engineer & open-source contributor**
 
-<br/><br/>
+Web applications, backend systems, and developer infrastructure.
 
-<img src="https://skillicons.dev/icons?i=ts,js,go,java,cpp,python,react,nextjs,nodejs,express&theme=dark"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=spring,tailwind,postgres,mongodb,redis,prisma,docker,kubernetes,aws,linux&theme=dark"/>
-
-<br/><br/>
-
-<img width="100%" src="https://raw.githubusercontent.com/manaskumar3003/manaskumar3003/master/assets/stats.svg" alt="stats"/>
-
-<br/>
-
-<img width="100%" src="https://raw.githubusercontent.com/manaskumar3003/manaskumar3003/output/snake.svg" alt="contribution snake"/>
-
-<br/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=manaskumar3003&hide_border=true&border_radius=11&background=0d1117&border=30363d&stroke=30363d&ring=a371f7&fire=f778ba&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=58a6ff&sideLabels=7d8590&dates=484f58"/>
-
-<br/><br/>
-
-`webhook-Service-Go` · queued & retried webhook delivery — **Go · TS · Docker**
-`doorcredit` · lending product frontend — **Next.js · TS**
-`walmart-sql-project` · retail analysis in raw SQL — **SQL · Python**
-
-<sub>Most of my work lives in private repos — this is the tip of the iceberg.</sub>
+[Website](https://manaskumar.in) &nbsp;&middot;&nbsp; [LinkedIn](https://linkedin.com/in/manaskumar3003) &nbsp;&middot;&nbsp; [X](https://x.com/ManasKumar3003)
 
 </div>
+
+## Building Alror
+
+I'm building **[Alror](https://github.com/alrors/alror)**, an open-source infrastructure project for developers. My current focus is reliable execution, practical developer tooling, and making systems easier to operate.
+
+**[Explore the code](https://github.com/alrors/alror)** &nbsp;&middot;&nbsp; **[Visit alror.com](https://alror.com)**
+
+## Open-source contributions
+
+Contributing to projects I value and learning from the teams behind them.
+
+| Project | Focus | My contributions |
+| :--- | :--- | :--- |
+| **[Plane](https://plane.so)** | Open-source project management | [Pull requests](https://github.com/makeplane/plane/pulls?q=is%3Apr+author%3Amanaskumar3003) |
+| **[Hi.Events](https://hi.events)** | Open-source event management and ticketing | [Pull requests](https://github.com/HiEventsDev/Hi.Events/pulls?q=is%3Apr+author%3Amanaskumar3003) |
+
+## Tools I work with
+
+**Languages** &nbsp; TypeScript, JavaScript, Go, Java, Python<br>
+**Web** &nbsp; React, Next.js, Node.js, Tailwind CSS<br>
+**Data & infrastructure** &nbsp; PostgreSQL, Redis, Docker, Linux
+
+---
+
+Open to conversations about open source, backend engineering, and developer tools. [Get in touch on LinkedIn.](https://linkedin.com/in/manaskumar3003)
