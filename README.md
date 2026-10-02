@@ -1,36 +1,30 @@
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile-banner-mobile.svg">
+  <img src="./assets/profile-banner.svg" width="1200" alt="Manas Kumar — full-stack engineer and open-source contributor, building Alror">
+</picture>
+
 <div align="center">
-
-# Manas Kumar
-
-**Full-stack engineer & open-source contributor**
-
-Web applications, backend systems, and developer infrastructure.
 
 [Website](https://manaskumar.in) &nbsp;&middot;&nbsp; [LinkedIn](https://linkedin.com/in/manaskumar3003) &nbsp;&middot;&nbsp; [X](https://x.com/ManasKumar3003)
 
 </div>
 
-## Building Alror
+### Currently building
 
-I'm building **[Alror](https://github.com/alrors/alror)**, an open-source infrastructure project for developers. My current focus is reliable execution, practical developer tooling, and making systems easier to operate.
+<a href="https://github.com/alrors/alror"><picture><source media="(max-width: 600px)" srcset="./assets/alror-mobile.svg"><img src="./assets/alror.svg" width="1200" alt="Alror — my open-source infrastructure project for developers. Explore the repository."></picture></a>
 
-**[Explore the code](https://github.com/alrors/alror)** &nbsp;&middot;&nbsp; **[Visit alror.com](https://alror.com)**
+I'm building Alror with a focus on reliable execution and practical developer tools. Follow the work at **[alrors/alror](https://github.com/alrors/alror)** or visit **[alror.com](https://alror.com)**.
 
-## Open-source contributions
+### Contributing to
 
-Contributing to projects I value and learning from the teams behind them.
+<a href="https://github.com/makeplane/plane/pulls?q=is%3Apr+author%3Amanaskumar3003"><img src="./assets/plane.svg" width="400" alt="Plane — open-source project management. View my contributions." /></a> <a href="https://github.com/HiEventsDev/Hi.Events/pulls?q=is%3Apr+author%3Amanaskumar3003"><img src="./assets/hi-events.svg" width="400" alt="Hi.Events — open-source events and ticketing. View my contributions." /></a>
 
-| Project | Focus | My contributions |
-| :--- | :--- | :--- |
-| **[Plane](https://plane.so)** | Open-source project management | [Pull requests](https://github.com/makeplane/plane/pulls?q=is%3Apr+author%3Amanaskumar3003) |
-| **[Hi.Events](https://hi.events)** | Open-source event management and ticketing | [Pull requests](https://github.com/HiEventsDev/Hi.Events/pulls?q=is%3Apr+author%3Amanaskumar3003) |
+Working on **[Plane](https://plane.so)** and **[Hi.Events](https://hi.events)** alongside building my own projects.
 
-## Tools I work with
+### My toolkit
 
-**Languages** &nbsp; TypeScript, JavaScript, Go, Java, Python<br>
-**Web** &nbsp; React, Next.js, Node.js, Tailwind CSS<br>
-**Data & infrastructure** &nbsp; PostgreSQL, Redis, Docker, Linux
+`TypeScript` `Go` `Java` `Python` &nbsp; / &nbsp; `React` `Next.js` `Node.js`<br>`PostgreSQL` `Redis` `Docker` `Linux` &nbsp; / &nbsp; `Tailwind CSS`
 
 ---
 
-Open to conversations about open source, backend engineering, and developer tools. [Get in touch on LinkedIn.](https://linkedin.com/in/manaskumar3003)
+<sub>Interested in open source, backend engineering, or developer infrastructure? <a href="https://linkedin.com/in/manaskumar3003">Let's connect.</a></sub>

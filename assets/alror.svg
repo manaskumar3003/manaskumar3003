@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="224" viewBox="0 0 1200 224" fill="none">
+  <title>Building Alror — open-source infrastructure for developers</title>
+  <defs><linearGradient id="panel" x1="0" y1="0" x2="1200" y2="224" gradientUnits="userSpaceOnUse"><stop stop-color="#181720"/><stop offset="1" stop-color="#111218"/></linearGradient></defs>
+  <rect x="1" y="1" width="1198" height="222" rx="16" fill="url(#panel)" stroke="#33303F" stroke-width="2"/>
+  <path d="M1 47V17A16 16 0 0 1 17 1H213" stroke="#A69BFF" stroke-width="2"/>
+  <text x="38" y="46" fill="#A69BFF" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2">CURRENT PROJECT</text>
+  <text x="36" y="111" fill="#F3F1FA" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" letter-spacing="-2">alror</text>
+  <text x="39" y="149" fill="#B1AFBF" font-family="Arial, Helvetica, sans-serif" font-size="20">Open-source infrastructure for developers.</text>
+  <text x="39" y="188" fill="#7F8194" font-family="Arial, Helvetica, sans-serif" font-size="15">Reliable execution · Developer tooling · Systems engineering</text>
+  <rect x="893" y="78" width="262" height="61" rx="10" fill="#A69BFF" fill-opacity=".07" stroke="#A69BFF" stroke-opacity=".23"/>
+  <text x="919" y="115" fill="#D5CEFF" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600">Explore the project</text>
+  <path d="M1120 108h13m-6-6 6 6-6 6" stroke="#B9AFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="906" y="170" fill="#737587" font-family="Arial, Helvetica, sans-serif" font-size="14">github.com/alrors/alror</text>
+</svg>

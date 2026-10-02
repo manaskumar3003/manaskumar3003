@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="246" viewBox="0 0 600 246" fill="none">
+  <title>Building Alror — open-source infrastructure for developers</title>
+  <rect x="1" y="1" width="598" height="244" rx="16" fill="#16151D" stroke="#33303F" stroke-width="2"/>
+  <path d="M1 47V17A16 16 0 0 1 17 1H170" stroke="#A69BFF" stroke-width="2"/>
+  <text x="29" y="40" fill="#A69BFF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2">CURRENT PROJECT</text>
+  <text x="27" y="104" fill="#F3F1FA" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="-2">alror</text>
+  <text x="30" y="144" fill="#B1AFBF" font-family="Arial, Helvetica, sans-serif" font-size="21">Open-source infrastructure for developers.</text>
+  <path d="M30 172h540" stroke="#33303F"/>
+  <text x="30" y="211" fill="#CEC7FF" font-family="Arial, Helvetica, sans-serif" font-size="18">Explore the project</text>
+  <text x="374" y="211" fill="#9090A6" font-family="Arial, Helvetica, sans-serif" font-size="18">alrors/alror</text>
+  <path d="M548 204h14m-6-6 6 6-6 6" stroke="#B9AFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

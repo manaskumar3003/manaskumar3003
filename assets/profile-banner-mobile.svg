@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="310" viewBox="0 0 600 310" fill="none">
+  <title>Manas Kumar — full-stack engineer and open-source contributor</title>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="600" y2="310" gradientUnits="userSpaceOnUse"><stop stop-color="#191720"/><stop offset="1" stop-color="#0C0D12"/></linearGradient></defs>
+  <rect x="1" y="1" width="598" height="308" rx="18" fill="url(#bg)" stroke="#2A2B36" stroke-width="2"/>
+  <path d="M32 42h24" stroke="#A69BFF" stroke-width="3" stroke-linecap="round"/>
+  <text x="70" y="47" fill="#B2B2C4" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" letter-spacing="2">ENGINEERING / OPEN SOURCE</text>
+  <text x="30" y="126" fill="#F3F1FA" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" letter-spacing="-2">Manas Kumar</text>
+  <text x="33" y="166" fill="#A5A6B7" font-family="Arial, Helvetica, sans-serif" font-size="22">Full-stack engineer.</text>
+  <text x="33" y="196" fill="#A5A6B7" font-family="Arial, Helvetica, sans-serif" font-size="22">Building beyond the interface.</text>
+  <rect x="33" y="239" width="176" height="38" rx="19" fill="#A69BFF" fill-opacity=".09" stroke="#A69BFF" stroke-opacity=".3"/>
+  <circle cx="52" cy="258" r="3" fill="#A69BFF"/>
+  <text x="65" y="263" fill="#CEC7FF" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600">BUILDING ALROR</text>
+  <g stroke="#A69BFF" stroke-width="1.5"><path d="m505 194 40 23v46l-40 23-40-23v-46Z" stroke-opacity=".4"/><path d="m465 217 40 23 40-23m-40 23v46" stroke-opacity=".65"/></g>
+  <circle cx="505" cy="240" r="3" fill="#CEC7FF"/>
+</svg>

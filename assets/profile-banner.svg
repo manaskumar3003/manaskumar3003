@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+  <title>Manas Kumar — full-stack engineer and open-source contributor</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#15151D"/><stop offset="1" stop-color="#0C0D12"/></linearGradient>
+    <linearGradient id="accent" x1="750" y1="50" x2="1120" y2="310" gradientUnits="userSpaceOnUse"><stop stop-color="#A69BFF"/><stop offset="1" stop-color="#699AFF"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#8A75FF" stop-opacity=".16"/><stop offset="1" stop-color="#8A75FF" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#8C8CBA" fill-opacity=".15"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="358" rx="20" fill="url(#bg)" stroke="#2A2B36" stroke-width="2"/>
+  <rect x="740" y="25" width="425" height="305" fill="url(#grid)"/>
+  <ellipse cx="990" cy="180" rx="245" ry="179" fill="url(#glow)"/>
+  <path d="M48 52H80" stroke="#A69BFF" stroke-width="3" stroke-linecap="round"/>
+  <text x="94" y="57" fill="#B2B2C4" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600" letter-spacing="2.5">ENGINEERING / OPEN SOURCE</text>
+  <text x="46" y="163" fill="#F3F1FA" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">Manas Kumar</text>
+  <text x="50" y="207" fill="#A5A6B7" font-family="Arial, Helvetica, sans-serif" font-size="23">Full-stack engineer. Building beyond the interface.</text>
+  <rect x="50" y="270" width="156" height="36" rx="18" fill="#A69BFF" fill-opacity=".09" stroke="#A69BFF" stroke-opacity=".3"/>
+  <circle cx="68" cy="288" r="3" fill="#A69BFF"/>
+  <text x="81" y="293" fill="#CEC7FF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600">BUILDING ALROR</text>
+  <text x="227" y="293" fill="#7F8194" font-family="Arial, Helvetica, sans-serif" font-size="14">Code. Systems. Craft.</text>
+  <g stroke="url(#accent)" stroke-width="1.5">
+    <path d="M977 59 1090 124 1090 252 977 317 864 252 864 124Z" stroke-opacity=".22"/>
+    <path d="M977 89 1064 139 1064 239 977 289 890 239 890 139Z" stroke-opacity=".4"/>
+    <path d="M977 120 1037 154 1037 224 977 259 917 224 917 154Z" fill="#9990EF" fill-opacity=".05"/>
+    <path d="m917 154 60 35 60-35M977 189v70M977 89v31M1064 239l-27-15M890 239l27-15" stroke-opacity=".65"/>
+    <path d="M864 124 817 97M1090 124l45-26M977 317v17" stroke-opacity=".3"/>
+  </g>
+  <circle cx="977" cy="89" r="4" fill="#B5A9FF"/>
+  <circle cx="1064" cy="239" r="4" fill="#86A0FF"/>
+  <circle cx="890" cy="239" r="4" fill="#8E85D0"/>
+  <circle cx="977" cy="189" r="5" fill="#D2C9FF"/>
+</svg>
